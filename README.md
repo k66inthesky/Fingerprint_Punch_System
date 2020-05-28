@@ -1,6 +1,6 @@
 # Fingerprint_Punch_System
 
-Employees punch with their fingerprints and mail the manager automatically.
+The system find who is absent(from fingerprints) and mail the manager automatically.
 
 Author: Lana Chen
 
